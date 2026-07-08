@@ -1,4 +1,4 @@
-# 2D to 3D Room Model - VR/AR Project
+# 2D to 3D Room Model 
 
 This project explores converting multiple 2D room images into a 3D model for VR/AR applications.
 
