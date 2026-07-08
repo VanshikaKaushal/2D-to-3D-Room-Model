@@ -1,0 +1,39 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Private images
+images/
+Test/Room1/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.HEIC
+
+# COLMAP generated files
+sparse/
+stereo/
+database.db
+
+# Generated model outputs
+Test/Output/
+Output/
+output/
+local_outputs/
+*.zip
+*.glb
+*.usdz
+
+# Xcode user/local files
+DerivedData/
+build/
+*.xcuserdata/
+xcuserdata/
+*.xcuserstate
