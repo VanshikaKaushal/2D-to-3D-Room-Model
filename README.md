@@ -7,7 +7,6 @@ It includes experiments with:
 - KIRI Engine API
 - Apple Object Capture / RealityKit
 - COLMAP
-- Meshroom / AliceVision exploration
 
 ---
 
